@@ -7,7 +7,7 @@ This project explores how AI-enhanced browsers like [Arc](https://arc.net) and [
 ## 🧪 Focus Areas
 
 - ⚡ Arc: Automating research, content filtering, memory recall, and summarization
-- 🧠 Dia: AI-assisted wireflows, site architecture, UI pattern generation
+- 🧠 Dia: AI-assisted workflows, site architecture, UI pattern generation
 
 ---
 
